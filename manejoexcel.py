@@ -30,4 +30,7 @@ while contador <= cantidad:
     contador = contador + 1 
 
 print("================= fin de lectura =======================")
+print ("hola este condigo pertenece a la version 3")
+print ("hola este condigo pertenece a la version 4")
+
 
